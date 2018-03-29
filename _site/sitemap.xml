@@ -59,10 +59,10 @@
 <loc>http://localhost:4000/booklet</loc>
 </url>
 <url>
-<loc>http://localhost:4000/2016/faqs</loc>
+<loc>http://localhost:4000/faqs</loc>
 </url>
 <url>
-<loc>http://localhost:4000/faqs</loc>
+<loc>http://localhost:4000/2016/faqs</loc>
 </url>
 <url>
 <loc>http://localhost:4000/2016/index</loc>
